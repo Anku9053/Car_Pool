@@ -1,0 +1,18 @@
+{
+    "cities": [
+      {
+        "id": 1,
+        "name": "New York",
+        "hotels": [
+          {
+            "id": 101,
+            "name": "Hotel A",
+            "description": "A cozy hotel in the heart of New York.",
+            "image": "https://media.istockphoto.com/id/1299087866/photo/blue-sportscar-driving-on-a-road.webp?b=1&s=170667a&w=0&k=20&c=7_vaAwVf1XTrP8v8A1oo3C0xUpa7r7TeK7ffB94QJ44="
+          }
+          
+        ]
+      }
+    ]
+  }
+  
